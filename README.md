@@ -1,2 +1,2 @@
 # Temperature
-# 用于复旦微电子DT160FM13 芯片的APP demo。
+# 用于复旦微电子FM13DT160 芯片的APP demo。
