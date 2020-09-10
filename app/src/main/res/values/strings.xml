@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Temperature</string>
+
+    <string name="text_main1">温度测量</string>
+    <string name="text_main2">记录读取</string>
+    <string name="text_main3">系统设置</string>
+    <string name="text_main4">请选择测量类型</string>
+    <string name="text_main5">压力测量</string>
+    <string name="text_main6">外部sensor测量</string>
+    <string name="text_main7">电池测量</string>
+    <string name="text_main8">900M场强测量</string>
+    <string name="text_main9">RTC温度测量</string>
+    <string name="text_end">结束</string>
+    <string name="text_start">开始</string>
+    <string name="text_check">查看测温状态</string>
+    <string name="text_open">FM11NT0X1TT开启检测</string>
+    <string name="text_instruct">测量指令</string>
+    <string name="text_configuration">测量配置</string>
+    <string name="text_cancel">取消</string>
+    <string name="text_confirm">确定</string>
+    <string name="text_hint">提示</string>
+
+
+    <string name="text_measure_delay">• 延迟测温时间</string>
+    <string name="text_measure_interval">• 测温间隔时间</string>
+    <string name="text_measure_count">• 测温次数</string>
+    <string name="text_max_tp">• 温度最大值</string>
+    <string name="text_min_tp">• 温度最小值</string>
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+
+    <string name="applyConfig">发送配置指令并开启RTC测温</string>
+    <string name="resetConfig">初始化标签状态</string>
+
+    <string name="liveStatus_label">实时测温</string>
+    <string name="text_connet"><Data><![CDATA[当前标签处于<font color="#0000ff"><b>连接</b></font>状态]]></Data></string>
+    <string name="text_disconnet"><Data><![CDATA[当前标签处于<font color="#ff0000"><b>断开</b></font>状态]]></Data></string>
+    <string name="celsius">°C</string>
+</resources>
